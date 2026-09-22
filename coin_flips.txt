@@ -3,5 +3,5 @@ Coin Flip Results (5 flips)
 Flip 1: Tails
 Flip 2: Heads
 Flip 3: Heads
-Flip 4: Tails
-Flip 5: Heads
+Flip 4: Heads
+Flip 5: Tails
